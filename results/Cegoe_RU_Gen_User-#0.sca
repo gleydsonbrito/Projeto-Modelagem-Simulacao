@@ -1,0 +1,54 @@
+version 2
+run Cegoe_RU_Gen_User-0-20210301-21:31:31-11612
+attr configname Cegoe_RU_Gen_User
+attr datetime 20210301-21:31:31
+attr experiment Cegoe_RU_Gen_User
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_RU_Gen_User
+attr processid 11612
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar Cegoe_RU_Gen_User.sink specialPathDelay:mean 226.655
+attr title "Special Path Delay, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink specialPathDelay:max 226.655
+attr title "Special Path Delay, max"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink regularPathDelay:mean nan
+attr title "Regular Path Delay, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink regularPathDelay:max nan
+attr title "Regular Path Delay, max"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink pathDelay:mean 226.655
+attr title "Path Delay, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink pathDelay:max 226.655
+attr title "Path Delay, max"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink specialPathDistance:mean 453.31
+attr title "Special Path Distance, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink specialPathDistance:max 453.31
+attr title "Special Path Distance, max"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink regularPathDistance:mean nan
+attr title "Regular Path Distance, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink regularPathDistance:max nan
+attr title "Regular Path Distance, max"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink pathDistance:mean 453.31
+attr title "Path Distance, mean"
+attr unit s
+scalar Cegoe_RU_Gen_User.sink pathDistance:max 453.31
+attr title "Path Distance, max"
+attr unit s
+

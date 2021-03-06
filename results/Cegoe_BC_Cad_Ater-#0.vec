@@ -1,0 +1,46 @@
+version 2
+run Cegoe_BC_Cad_Ater-0-20210301-22:51:20-1040
+attr configname Cegoe_BC_Cad_Ater
+attr datetime 20210301-22:51:20
+attr experiment Cegoe_BC_Cad_Ater
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_BC_Cad_Ater
+attr processid 1040
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_BC_Cad_Ater.nodes[0] "" ETV
+vector 1 Cegoe_BC_Cad_Ater.nodes[0] "" ETV
+vector 2 Cegoe_BC_Cad_Ater.nodes[1] "" ETV
+vector 3 Cegoe_BC_Cad_Ater.nodes[1] "" ETV
+vector 4 Cegoe_BC_Cad_Ater.nodes[2] "" ETV
+vector 5 Cegoe_BC_Cad_Ater.nodes[2] "" ETV
+vector 6 Cegoe_BC_Cad_Ater.nodes[3] "" ETV
+vector 7 Cegoe_BC_Cad_Ater.nodes[3] "" ETV
+vector 8 Cegoe_BC_Cad_Ater.nodes[4] "" ETV
+vector 9 Cegoe_BC_Cad_Ater.nodes[4] "" ETV
+vector 10 Cegoe_BC_Cad_Ater.nodes[5] "" ETV
+vector 11 Cegoe_BC_Cad_Ater.nodes[5] "" ETV
+vector 12 Cegoe_BC_Cad_Ater.nodes[6] "" ETV
+vector 13 Cegoe_BC_Cad_Ater.nodes[6] "" ETV
+0	1	13.7	51.52
+1	1	13.7	32915.920118391
+2	2	39.46	92.61
+3	2	39.46	57858.0975
+4	3	85.765	80.76
+5	3	85.765	51185.886162943
+6	4	126.145	234.45
+7	4	126.145	146472.6375
+8	5	243.37	52.08
+9	5	243.37	33265.848219066
+10	6	269.41	33.52
+11	6	269.41	21666.980294324
+12	7	286.17	24.63
+13	7	286.17	16109.32040339
+

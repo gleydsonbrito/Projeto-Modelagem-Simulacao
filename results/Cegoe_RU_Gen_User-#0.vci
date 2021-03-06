@@ -1,0 +1,43 @@
+file 1203 1614645105                                            
+version 2
+run Cegoe_RU_Gen_User-0-20210301-21:31:31-11612
+attr configname Cegoe_RU_Gen_User
+attr datetime 20210301-21:31:31
+attr experiment Cegoe_RU_Gen_User
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_RU_Gen_User
+attr processid 11612
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_RU_Gen_User.nodes[0] "" ETV
+vector 1 Cegoe_RU_Gen_User.nodes[0] "" ETV
+vector 2 Cegoe_RU_Gen_User.nodes[1] "" ETV
+vector 3 Cegoe_RU_Gen_User.nodes[1] "" ETV
+vector 4 Cegoe_RU_Gen_User.nodes[2] "" ETV
+vector 5 Cegoe_RU_Gen_User.nodes[2] "" ETV
+vector 6 Cegoe_RU_Gen_User.nodes[3] "" ETV
+vector 7 Cegoe_RU_Gen_User.nodes[3] "" ETV
+vector 8 Cegoe_RU_Gen_User.nodes[4] "" ETV
+vector 9 Cegoe_RU_Gen_User.nodes[4] "" ETV
+vector 10 Cegoe_RU_Gen_User.nodes[5] "" ETV
+vector 11 Cegoe_RU_Gen_User.nodes[5] "" ETV
+0	941 18 1 1 12.025 12.025 1 55.95 55.95 55.95 3130.4025
+1	959 23 1 1 12.025 12.025 1 34954.7625 34954.7625 34954.7625 1221835421.4314
+2	982 14 2 2 40 40 1 86.83 86.83 86.83 7539.4489
+3	996 19 2 2 40 40 1 54247.0425 54247.0425 54247.0425 2942741619.9968
+4	1015 19 3 3 83.415 83.415 1 108.48 108.48 108.48 11767.9104
+5	1034 28 3 3 83.415 83.415 1 68504.969393453 68504.969393453 68504.969393453 4692930831.5979
+6	1062 19 4 4 137.655 137.655 1 88.46 88.46 88.46 7825.1716
+7	1081 29 4 4 137.655 137.655 1 56720.889818028 56720.889818028 56720.889818028 3217259341.7488
+8	1110 19 5 5 181.885 181.885 1 16.53 16.53 16.53 273.2409
+9	1129 29 5 5 181.885 181.885 1 12894.947459484 12894.947459484 12894.947459484 166279669.98285
+10	1158 19 6 6 190.15 190.15 1 73.01 73.01 73.01 5330.4601
+11	1177 24 6 6 190.15 190.15 1 45612.9975 45612.9975 45612.9975 2080545540.935
+

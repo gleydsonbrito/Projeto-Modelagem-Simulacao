@@ -1,0 +1,59 @@
+file 1625 1614637473                                            
+version 2
+run Cegoe_BC_Cad-0-20210301-19:24:26-9188
+attr configname Cegoe_BC_Cad
+attr datetime 20210301-19:24:26
+attr experiment Cegoe_BC_Cad
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_BC_Cad
+attr processid 9188
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_BC_Cad.nodes[0] "" ETV
+vector 1 Cegoe_BC_Cad.nodes[0] "" ETV
+vector 2 Cegoe_BC_Cad.nodes[1] "" ETV
+vector 3 Cegoe_BC_Cad.nodes[1] "" ETV
+vector 4 Cegoe_BC_Cad.nodes[2] "" ETV
+vector 5 Cegoe_BC_Cad.nodes[2] "" ETV
+vector 6 Cegoe_BC_Cad.nodes[3] "" ETV
+vector 7 Cegoe_BC_Cad.nodes[3] "" ETV
+vector 8 Cegoe_BC_Cad.nodes[4] "" ETV
+vector 9 Cegoe_BC_Cad.nodes[4] "" ETV
+vector 10 Cegoe_BC_Cad.nodes[5] "" ETV
+vector 11 Cegoe_BC_Cad.nodes[5] "" ETV
+vector 12 Cegoe_BC_Cad.nodes[6] "" ETV
+vector 13 Cegoe_BC_Cad.nodes[6] "" ETV
+vector 14 Cegoe_BC_Cad.nodes[7] "" ETV
+vector 15 Cegoe_BC_Cad.nodes[7] "" ETV
+vector 16 Cegoe_BC_Cad.nodes[8] "" ETV
+vector 17 Cegoe_BC_Cad.nodes[8] "" ETV
+vector 18 Cegoe_BC_Cad.nodes[9] "" ETV
+vector 19 Cegoe_BC_Cad.nodes[9] "" ETV
+0	1179 17 1 1 14.44 14.44 1 50.75 50.75 50.75 2575.5625
+1	1196 22 1 1 14.44 14.44 1 31706.0625 31706.0625 31706.0625 1005274399.2539
+2	1218 18 2 2 39.815 39.815 1 74.57 74.57 74.57 5560.6849
+3	1236 23 2 2 39.815 39.815 1 46587.6075 46587.6075 46587.6075 2170405172.5741
+4	1259 17 3 3 77.1 77.1 1 107.53 107.53 107.53 11562.7009
+5	1276 21 3 3 77.1 77.1 1 67179.3675 67179.3675 67179.3675 4513067417.7001
+6	1297 20 4 4 130.865 130.865 1 136.65 136.65 136.65 18673.2225
+7	1317 29 4 4 130.865 130.865 1 86104.781962506 86104.781962506 86104.781962506 7414033476.8107
+8	1346 18 5 5 199.19 199.19 1 60.67 60.67 60.67 3680.8489
+9	1364 23 5 5 199.19 199.19 1 37903.5825 37903.5825 37903.5825 1436681566.3343
+10	1387 20 6 6 229.525 229.525 1 42.73 42.73 42.73 1825.8529
+11	1407 30 6 6 229.525 229.525 1 27423.058870726 27423.058870726 27423.058870726 752024157.8273
+12	1437 19 7 7 250.89 250.89 1 37.82 37.82 37.82 1430.3524
+13	1456 23 7 7 250.89 250.89 1 23628.045 23628.045 23628.045 558284510.52203
+14	1479 18 8 8 269.8 269.8 1 89.22 89.22 89.22 7960.2084
+15	1497 28 8 8 269.8 269.8 1 56471.647990192 56471.647990192 56471.647990192 3189047026.7281
+16	1525 19 9 9 314.41 314.41 1 39.36 39.36 39.36 1549.2096
+17	1544 29 9 9 314.41 314.41 1 25316.990380399 25316.990380399 25316.990380399 640950001.9212
+18	1573 20 10 10 334.09 334.09 1 36.01 36.01 36.01 1296.7201
+19	1593 30 10 10 334.09 334.09 1 23223.294596822 23223.294596822 23223.294596822 539321411.93079
+

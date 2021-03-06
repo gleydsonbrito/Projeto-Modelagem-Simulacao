@@ -1,0 +1,26 @@
+version 2
+run Cegoe_RU_Cad-0-20210301-17:45:17-3972
+attr configname Cegoe_RU_Cad
+attr datetime 20210301-17:45:17
+attr experiment Cegoe_RU_Cad
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_RU_Cad
+attr processid 3972
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_RU_Cad.nodes[0] "" ETV
+vector 1 Cegoe_RU_Cad.nodes[0] "" ETV
+vector 2 Cegoe_RU_Cad.nodes[1] "" ETV
+vector 3 Cegoe_RU_Cad.nodes[1] "" ETV
+0	1	12.8	48.92
+1	1	12.8	36675.324
+2	2	37.26	81.54
+3	2	37.26	61130.538
+

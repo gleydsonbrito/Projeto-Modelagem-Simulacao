@@ -1,0 +1,47 @@
+file 1350 1614645398                                            
+version 2
+run Cegoe_BC_Gen_User-0-20210301-21:36:31-7632
+attr configname Cegoe_BC_Gen_User
+attr datetime 20210301-21:36:31
+attr experiment Cegoe_BC_Gen_User
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_BC_Gen_User
+attr processid 7632
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_BC_Gen_User.nodes[0] "" ETV
+vector 1 Cegoe_BC_Gen_User.nodes[0] "" ETV
+vector 2 Cegoe_BC_Gen_User.nodes[1] "" ETV
+vector 3 Cegoe_BC_Gen_User.nodes[1] "" ETV
+vector 4 Cegoe_BC_Gen_User.nodes[2] "" ETV
+vector 5 Cegoe_BC_Gen_User.nodes[2] "" ETV
+vector 6 Cegoe_BC_Gen_User.nodes[3] "" ETV
+vector 7 Cegoe_BC_Gen_User.nodes[3] "" ETV
+vector 8 Cegoe_BC_Gen_User.nodes[4] "" ETV
+vector 9 Cegoe_BC_Gen_User.nodes[4] "" ETV
+vector 10 Cegoe_BC_Gen_User.nodes[5] "" ETV
+vector 11 Cegoe_BC_Gen_User.nodes[5] "" ETV
+vector 12 Cegoe_BC_Gen_User.nodes[6] "" ETV
+vector 13 Cegoe_BC_Gen_User.nodes[6] "" ETV
+0	1029 18 1 1 13.365 13.365 1 54.86 54.86 54.86 3009.6196
+1	1047 27 1 1 13.365 13.365 1 35002.97030116 35002.97030116 35002.97030116 1225207929.9039
+2	1074 18 2 2 40.795 40.795 1 90.92 90.92 90.92 8266.4464
+3	1092 21 2 2 40.795 40.795 1 56802.27 56802.27 56802.27 3226497877.1529
+4	1113 19 3 3 86.255 86.255 1 102.56 102.56 102.56 10518.5536
+5	1132 28 3 3 86.255 86.255 1 65531.900934907 65531.900934907 65531.900934907 4294430040.1424
+6	1160 19 4 4 137.535 137.535 1 92.58 92.58 92.58 8571.0564
+7	1179 29 4 4 137.535 137.535 1 60722.704440689 60722.704440689 60722.704440689 3687246834.5913
+8	1208 19 5 5 183.825 183.825 1 58.81 58.81 58.81 3458.6161
+9	1227 24 5 5 183.825 183.825 1 36741.5475 36741.5475 36741.5475 1349941312.6948
+10	1251 20 6 6 213.23 213.23 1 136.86 136.86 136.86 18730.6596
+11	1271 29 6 6 213.23 213.23 1 87687.220866984 87687.220866984 87687.220866984 7689048703.3752
+12	1300 19 7 7 281.66 281.66 1 33.02 33.02 33.02 1090.3204
+13	1319 29 7 7 281.66 281.66 1 21354.454501549 21354.454501549 21354.454501549 456012727.05873
+

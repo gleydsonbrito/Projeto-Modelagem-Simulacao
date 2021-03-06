@@ -1,0 +1,47 @@
+file 1344 1614649888                                            
+version 2
+run Cegoe_BC_Cad_Ater-0-20210301-22:51:20-1040
+attr configname Cegoe_BC_Cad_Ater
+attr datetime 20210301-22:51:20
+attr experiment Cegoe_BC_Cad_Ater
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_BC_Cad_Ater
+attr processid 1040
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Cegoe_BC_Cad_Ater.nodes[0] "" ETV
+vector 1 Cegoe_BC_Cad_Ater.nodes[0] "" ETV
+vector 2 Cegoe_BC_Cad_Ater.nodes[1] "" ETV
+vector 3 Cegoe_BC_Cad_Ater.nodes[1] "" ETV
+vector 4 Cegoe_BC_Cad_Ater.nodes[2] "" ETV
+vector 5 Cegoe_BC_Cad_Ater.nodes[2] "" ETV
+vector 6 Cegoe_BC_Cad_Ater.nodes[3] "" ETV
+vector 7 Cegoe_BC_Cad_Ater.nodes[3] "" ETV
+vector 8 Cegoe_BC_Cad_Ater.nodes[4] "" ETV
+vector 9 Cegoe_BC_Cad_Ater.nodes[4] "" ETV
+vector 10 Cegoe_BC_Cad_Ater.nodes[5] "" ETV
+vector 11 Cegoe_BC_Cad_Ater.nodes[5] "" ETV
+vector 12 Cegoe_BC_Cad_Ater.nodes[6] "" ETV
+vector 13 Cegoe_BC_Cad_Ater.nodes[6] "" ETV
+0	1029 16 1 1 13.7 13.7 1 51.52 51.52 51.52 2654.3104
+1	1045 26 1 1 13.7 13.7 1 32915.920118391 32915.920118391 32915.920118391 1083457797.2403
+2	1071 17 2 2 39.46 39.46 1 92.61 92.61 92.61 8576.6121
+3	1088 22 2 2 39.46 39.46 1 57858.0975 57858.0975 57858.0975 3347559446.3195
+4	1110 18 3 3 85.765 85.765 1 80.76 80.76 80.76 6522.1776
+5	1128 28 3 3 85.765 85.765 1 51185.886162943 51185.886162943 51185.886162943 2619994942.2858
+6	1156 20 4 4 126.145 126.145 1 234.45 234.45 234.45 54966.8025
+7	1176 25 4 4 126.145 126.145 1 146472.6375 146472.6375 146472.6375 21454233536.206
+8	1201 18 5 5 243.37 243.37 1 52.08 52.08 52.08 2712.3264
+9	1219 28 5 5 243.37 243.37 1 33265.848219066 33265.848219066 33265.848219066 1106616657.734
+10	1247 19 6 6 269.41 269.41 1 33.52 33.52 33.52 1123.5904
+11	1266 29 6 6 269.41 269.41 1 21666.980294324 21666.980294324 21666.980294324 469458035.07461
+12	1295 19 7 7 286.17 286.17 1 24.63 24.63 24.63 606.6369
+13	1314 28 7 7 286.17 286.17 1 16109.32040339 16109.32040339 16109.32040339 259510203.85909
+

@@ -1,0 +1,54 @@
+version 2
+run Cegoe_BC_Cad-0-20210301-19:24:26-9188
+attr configname Cegoe_BC_Cad
+attr datetime 20210301-19:24:26
+attr experiment Cegoe_BC_Cad
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Cegoe_BC_Cad
+attr processid 9188
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar Cegoe_BC_Cad.sink specialPathDelay:mean -1745632.017
+attr title "Special Path Delay, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink specialPathDelay:max -1745632.017
+attr title "Special Path Delay, max"
+attr unit s
+scalar Cegoe_BC_Cad.sink regularPathDelay:mean nan
+attr title "Regular Path Delay, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink regularPathDelay:max nan
+attr title "Regular Path Delay, max"
+attr unit s
+scalar Cegoe_BC_Cad.sink pathDelay:mean -1745632.017
+attr title "Path Delay, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink pathDelay:max -1745632.017
+attr title "Path Delay, max"
+attr unit s
+scalar Cegoe_BC_Cad.sink specialPathDistance:mean 675.31
+attr title "Special Path Distance, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink specialPathDistance:max 675.31
+attr title "Special Path Distance, max"
+attr unit s
+scalar Cegoe_BC_Cad.sink regularPathDistance:mean nan
+attr title "Regular Path Distance, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink regularPathDistance:max nan
+attr title "Regular Path Distance, max"
+attr unit s
+scalar Cegoe_BC_Cad.sink pathDistance:mean 675.31
+attr title "Path Distance, mean"
+attr unit s
+scalar Cegoe_BC_Cad.sink pathDistance:max 675.31
+attr title "Path Distance, max"
+attr unit s
+
